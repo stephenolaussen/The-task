@@ -15,7 +15,7 @@ Create a commit containing the file creation.
 
 Push the commit to the remote repository.
 
-Change the file again, but from GitHub.
+Change the file again, but from GitHub. (doing this now and here!)
 
 Create another commit with the file change.
 
