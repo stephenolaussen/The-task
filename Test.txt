@@ -1,0 +1,22 @@
+3.3. Lesson - Git (part 1)
+The task
+
+This lesson taught us about Git basics, such as Git setup, creating a GitHub account, repository, and commits. We saw how to push the last to the remote repository.
+
+In this task, you need to:
+
+Create a new repository.
+
+Open it in VS Code.
+
+Create a file “Test.txt” and put some text in it.
+
+Create a commit containing the file creation.
+
+Push the commit to the remote repository.
+
+Change the file again, but from GitHub.
+
+Create another commit with the file change.
+
+Pull remote changes from VS Code.
