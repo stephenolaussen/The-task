@@ -19,4 +19,4 @@ Change the file again, but from GitHub. (doing this now and here!)
 
 Create another commit with the file change.
 
-Pull remote changes from VS Code.
+Pull remote changes from VS Code!
